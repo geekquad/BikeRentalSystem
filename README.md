@@ -6,3 +6,8 @@ Project has two classes:
 
 Scripting of the code is done following the OOPs and SOLID principles. 
 
+To run, entwe the following in the command prompt:
+
+```
+python main.py
+```
